@@ -539,8 +539,6 @@ h2:after {
     margin: 3%;
     border: 1px solid grey;
     padding: 1%;
-    font-size: 1.1em;
-    ;
     color: #0662EE;
     vertical-align: middle;
     text-transform: uppercase;
@@ -564,7 +562,6 @@ h2:after {
     margin: 3%;
     border: 1px solid grey;
     padding: 1%;
-    font-size: 1.1em;
     color: #0662EE;
     vertical-align: middle;
     text-transform: uppercase;
